@@ -9,7 +9,9 @@
 A simple file handling project in Java
 
 ## Using the application
-Welcome screen displays the application name.
+Welcome screen
+
+![scrp1](https://user-images.githubusercontent.com/85660702/121673168-3ff49780-cace-11eb-95ae-15f1ab20e2ed.png)
 
 
 The details of the user interface are shown to the user. The user has to select from the options listed 
